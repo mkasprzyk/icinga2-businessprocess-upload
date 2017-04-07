@@ -1,0 +1,3 @@
+requests_toolbelt
+beautifulsoup4
+requests
